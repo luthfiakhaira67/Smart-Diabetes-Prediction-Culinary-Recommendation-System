@@ -1,6 +1,3 @@
-# Smart-Diabetes-Prediction-Culinary-Recommendation-System
-DiaPlate — Smart Diabetes Prediction &amp; Culinary Recommendation System built with Streamlit and Machine Learning.
-
 # 🩺 DiaPlate — Smart Diabetes Prediction & Culinary Recommendation System
 
 DiaPlate adalah aplikasi web interaktif berbasis **Streamlit** dan **Machine Learning** yang dirancang untuk membantu deteksi dini risiko diabetes sekaligus memberikan rekomendasi menu kuliner sehat seimbang secara personal.
